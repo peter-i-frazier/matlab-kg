@@ -1,8 +1,8 @@
 # matlab-kg
 
 Matlab KG library from two early papers on the knowledge gradient method:
-- Frazier, Powell & Dayanik. "A knowledge-gradient policy for sequential information collection", SIAM Journal on Control and Optimization, 2008 [link](https://doi.org/10.1137/070693424)
-- Frazier, Powell & Dayanik. "The knowledge gradient policy for correlated normal beliefs", INFORMS Journal on Computing, 2009 [link](https://doi.org/10.1287/ijoc.1080.0314)
+- Frazier, Powell & Dayanik. "A knowledge-gradient policy for sequential information collection", SIAM Journal on Control and Optimization, 2008. [doi:10.1137/070693424](https://doi.org/10.1137/070693424)
+- Frazier, Powell & Dayanik. "The knowledge gradient policy for correlated normal beliefs", INFORMS Journal on Computing, 2009. [doi:10.1287/ijoc.1080.0314](https://doi.org/10.1287/ijoc.1080.0314)
 
 The latter paper recently (2025) won the Test of Time Award from the INFORMS Journal on Computing.
 
